@@ -83,6 +83,6 @@ RecoBuddy/
 Contributing
 Contributions are welcome! Please fork the repository, make changes, and submit a pull request.
 License
-This project is licensed under the MIT License.
+This project is licensed under the Apache2.0 License.
 Contact
 For questions or feedback, reach out to sandeepkuruva0@gmail.com or open an issue on GitHub.
