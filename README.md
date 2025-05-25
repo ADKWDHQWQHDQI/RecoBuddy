@@ -26,7 +26,7 @@ Whether you're feeling happy, sad, or neutral, RecoBuddy suggests personalized c
 - NLTK *(VADER for sentiment analysis)*  
 - Transformers *(Hugging Face)*  
 - Pandas, NumPy  
-- Pickle, Regular Expressions  
+- Regular Expressions  
 
 ### Datasets  
 - **Spotify Tracks**  
