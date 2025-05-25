@@ -45,13 +45,14 @@ Ensure you have the following installed:
 ### Datasets  
 The datasets (`spotify_tracks.csv`, `netflix_movies.csv`, `books.csv`) are too large to host on GitHub.  
 Download them from **Google Drive**: [RecoBuddy Datasets](https://drive.google.com/drive/folders/1WUMlxrClSmdBPG78_3iFUNEhDXcqftZs?usp=drive_link).  
+```
 Place the `data` folder in the project's root directory:
 RecoBuddy/
 └── data/
 ├── spotify_tracks.csv
 ├── netflix_movies.csv
 └── books.csv
-
+```
 ### Frontend Setup  
 ```bash
 # Navigate to frontend folder
