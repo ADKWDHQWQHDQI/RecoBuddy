@@ -103,16 +103,12 @@ RecoBuddy/
 └── README.md      # Project documentation
 
 
-Contributing
+### Contributing
 Contributions are welcome!
 - Fork the repository
 - Make changes
 - Submit a pull request
-License
+### License
 This project is licensed under the Apache 2.0 License.
-Contact
+### Contact
 For questions or feedback, reach out to sandeepkuruva0@gmail.com or open an issue on GitHub.
-
-This version properly utilizes GitHub's markdown formatting, making it cleaner and easier to read. Let me know if you need any modifications! 🚀
-
-
