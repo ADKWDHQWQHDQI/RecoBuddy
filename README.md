@@ -85,13 +85,15 @@ Set Up Firebase
 python app.py
 
 The server runs at http://localhost:5000.
-Usage
+```
+### Usage
 - Open the live demo or run the app locally.
 - Log in / Sign up using Firebase Authentication.
 - Enter or speak a request (e.g., "Recommend a book" or "I’m happy, suggest music").
 - Provide feedback using like/dislike buttons.
 - Switch languages or themes via dropdown menus.
-Project Structure
+### Project Structure
+```
 RecoBuddy/
 ├── frontend/      # React frontend
 │   ├── App.js      # Main React component
