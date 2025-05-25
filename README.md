@@ -13,9 +13,6 @@ Whether you're feeling happy, sad, or neutral, RecoBuddy suggests personalized c
 - **Persistent Data** – Saves chat history and preferences using Firebase.
 - **Responsive UI** – Works across desktop and mobile, featuring **light/dark themes** and **voice input**.
 
-## Live Demo
-Try **RecoBuddy** online: [RecoBuddy Demo](#) *(Replace with actual link after hosting).*
-
 ## Technologies Used
 ### Frontend  
 - React  
@@ -101,8 +98,7 @@ RecoBuddy/
 │   ├── data_loader.py # Dataset processing
 │   └── requirements.txt # Backend dependencies
 └── README.md      # Project documentation
-
-
+```
 ### Contributing
 Contributions are welcome!
 - Fork the repository
@@ -112,3 +108,5 @@ Contributions are welcome!
 This project is licensed under the Apache 2.0 License.
 ### Contact
 For questions or feedback, reach out to sandeepkuruva0@gmail.com or open an issue on GitHub.
+
+
