@@ -1,0 +1,2 @@
+always add add this before running npm start  
+set NODE_OPTIONS=--openssl-legacy-provider
