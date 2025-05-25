@@ -60,25 +60,28 @@ cd frontend
 # Install dependencies
 npm install
 
+# To his is often needed when using old versions of Webpack or other packages that depend on older OpenSSL versions.
+set NODE_OPTIONS=--openssl-legacy-provider
+
 # Start the React app
 npm start
 
-
 The app runs at http://localhost:3000.
-Backend Setup
+```
+### Backend Setup
+```
 # Navigate to backend folder
 cd backend
 
 # Install dependencies
 pip install -r requirements.txt
 
-
 Set Up Firebase
 - Create a Firebase project.
 - Download firebase-adminsdk.json and place it in the backend folder (not included in this repository for security reasons).
+
 # Start the Flask server
 python app.py
-
 
 The server runs at http://localhost:5000.
 Usage
